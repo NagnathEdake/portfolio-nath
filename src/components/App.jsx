@@ -13,10 +13,15 @@ function App() {
     <>
       <Navbar />
       <Header />
+      <hr />
       <AboutMe />
+      <hr />
       <Services />
+      <hr />
       <Experience />
+      <hr />
       <Projects />
+      <hr />
       <Contact />
     </>
   );

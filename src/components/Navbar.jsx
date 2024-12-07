@@ -4,7 +4,7 @@ function Navbar() {
   return (
     <nav className="navbar navbar-expand-lg navbar-dark bg-dark p-2">
       <div className="container">
-        <a className="navbar-brand" href="#">
+        <a className="navbar-brand" href="#home">
           <img className="logo" src={logo} alt="Nath..." />
         </a>
         <button
